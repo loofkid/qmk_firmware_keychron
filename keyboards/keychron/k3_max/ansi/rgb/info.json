@@ -9,6 +9,7 @@
     "rgb_matrix": {
         "driver": "snled27351_spi",
         "animations": {
+            "typing_heatmap": true,
             "band_spiral_val": true,
             "breathing": true,
             "cycle_all": true,
@@ -28,8 +29,7 @@
             "solid_reactive_multiwide": true,
             "solid_reactive_simple": true,
             "solid_splash": true,
-            "splash": true,
-            "typing_heatmap": true
+            "splash": true
         }
     },
     "layouts": {
