@@ -18,3 +18,8 @@ RGB_MATRIX_ENABLE = yes
 CUSTOM_MATRIX = lite
 
 SRC += matrix.c
+
+AUTO_SHIFT_ENABLE = yes
+# COMBO_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+CAPS_WORD_ENABLE = yes
